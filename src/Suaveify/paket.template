@@ -1,0 +1,23 @@
+type project
+owners
+    Monkieboy
+authors 
+    Monkieboy
+projectUrl
+    http://github.com/Monkieboy/Suaveify
+iconUrl
+    https://raw.githubusercontent.com/Monkieboy/Suaveify/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/Monkieboy/Suaveify/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    suave formatting html web
+summary
+    Suave Based project
+description
+    This Is a Suave based project utilising some of the core FSharp libraries as a demo of what is possible with FSharp.
+
+
